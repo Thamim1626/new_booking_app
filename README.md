@@ -125,7 +125,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Login and Otp verification
 
-![Screenshot (39).png] (https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001614.png?updatedAt=1708886799267) 
+![Screenshot (39).png](https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001614.png?updatedAt=1708886799267) 
 ![Screenshot (40).png](https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001702.png?updatedAt=1708886834840)
 ![e5af704b-7928-4a7a-862f-98b69ef92d5b.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819849756/g819xGufS.jpeg)
 
