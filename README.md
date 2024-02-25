@@ -1,6 +1,6 @@
 ![Logo](<https://ik.imagekit.io/9pisu4akvm/Untitled%20design%20(12).png?updatedAt=1708880359571g>)
 
-# Develope by Ansari and Gowtham
+# CyborgSapient  Project
 
 # Technology we use
 
