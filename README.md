@@ -121,18 +121,18 @@ To run this project, you will need to add the following environment variables to
 
 ## Home Page
 
-![screencapture-localhost-3005-2021-11-13-20_06_05.png]([https://cdn.hashnode.com/res/hashnode/image/upload/v1636819763376/zjIHEBDE0.png](https://ik.imagekit.io/9pisu4akvm/screencapture-localhost-3000-2024-02-26-00_13_48.png?updatedAt=1708886687289))
+![screencapture-localhost-3005-2021-11-13-20_06_05.png](https://ik.imagekit.io/9pisu4akvm/screencapture-localhost-3000-2024-02-26-00_13_48.png?updatedAt=1708886687289)
 
 ## Login and Otp verification
 
-![Screenshot (39).png]([https://cdn.hashnode.com/res/hashnode/image/upload/v1636819827776/BVzkKdcMk.png](https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001614.png?updatedAt=1708886799267))
-![Screenshot (40).png]([https://cdn.hashnode.com/res/hashnode/image/upload/v1636819833599/lmidFgXps.png](https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001702.png?updatedAt=1708886834840))
+![Screenshot (39).png] (https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001614.png?updatedAt=1708886799267) 
+![Screenshot (40).png](https://ik.imagekit.io/9pisu4akvm/Screenshot%202024-02-26%20001702.png?updatedAt=1708886834840)
 ![e5af704b-7928-4a7a-862f-98b69ef92d5b.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1636819849756/g819xGufS.jpeg)
 
 ## Search Page
 
-![screencapture-localhost-3005-search-2021-11-13-20_08_52.png]([https://cdn.hashnode.com/res/hashnode/image/upload/v1636819783064/o0BPrMowgc.png](https://ik.imagekit.io/9pisu4akvm/screencapture-localhost-3000-search-2024-02-26-00_23_10.png?updatedAt=1708887249991))
-![Screenshot (42)]([https://user-images.githubusercontent.com/87421773/141656488-8910d26d-c2e8-4678-92e5-4d00641ecdac.png](https://ik.imagekit.io/9pisu4akvm/screencapture-localhost-3000-final-2024-02-26-00_24_38.png?updatedAt=1708887306691))
+![screencapture-localhost-3005-search-2021-11-13-20_08_52.png](https://ik.imagekit.io/9pisu4akvm/screencapture-localhost-3000-search-2024-02-26-00_23_10.png?updatedAt=1708887249991) 
+![Screenshot (42)](https://ik.imagekit.io/9pisu4akvm/screencapture-localhost-3000-final-2024-02-26-00_24_38.png?updatedAt=1708887306691)
 
 ##Payment Page
 
