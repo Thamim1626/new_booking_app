@@ -6,6 +6,7 @@ import TrainIcon from "@mui/icons-material/Train";
 import DirectionsBusFilledIcon from "@mui/icons-material/DirectionsBusFilled";
 import LocalTaxiIcon from "@mui/icons-material/LocalTaxi";
 import CreditCardIcon from "@mui/icons-material/CreditCard";
+import CurrencyExchangeIcon from "@mui/icons-material/CurrencyExchange";
 import DownhillSkiingIcon from "@mui/icons-material/DownhillSkiing";
 import FlightTakeoffIcon from "@mui/icons-material/FlightTakeoff";
 import styled from "styled-components";
@@ -56,9 +57,9 @@ const Icondivcss = styled.div`
     }
   }
   .login {
-position: relative;
-top: 13px;
-left: 150px;
+    position: relative;
+    top: 13px;
+    left: 150px;
   }
 `;
 
@@ -71,8 +72,13 @@ export const Header = () => {
     <Icondivcss>
       <div className="icondiv">
         <div className="imgdiv">
-        <Link to="/">
-            <img src={"https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/logo@2x.png"} alt="Logo" />
+          <Link to="/">
+            <img
+              src={
+                "https://ik.imagekit.io/9pisu4akvm/Untitled%20design%20(12).png?updatedAt=1708880359571"
+              }
+              alt="Logo"
+            />
           </Link>
         </div>
         <div className="icons">
@@ -88,12 +94,12 @@ export const Header = () => {
             </span>
             <p>Hotels</p>
           </div>
-          <div>
+          {/* <div>
             <span>
               <HomeWorkIcon style={{ fontSize: 30, padding: 4 }}></HomeWorkIcon>
             </span>
             <p>Homestays</p>
-          </div>
+          </div> */}
           <div>
             <span>
               <HolidayVillageIcon
@@ -130,27 +136,35 @@ export const Header = () => {
                 style={{ fontSize: 30, padding: 4 }}
               ></CreditCardIcon>
             </span>
-            <p>Visa</p>
+            <p>Forex & Currency</p>
           </div>
           <div>
+            <span>
+              <CurrencyExchangeIcon
+                style={{ fontSize: 30, padding: 4 }}
+              ></CurrencyExchangeIcon>
+            </span>
+            <p>Visa</p>
+          </div>
+          {/* <div>
             <span>
               <FlightTakeoffIcon
                 style={{ fontSize: 30, padding: 4 }}
               ></FlightTakeoffIcon>
             </span>
             <p>Charter flights</p>
-          </div>
-          <div>
+          </div> */}
+          {/* <div>
             <span>
               <DownhillSkiingIcon
                 style={{ fontSize: 30, padding: 4 }}
               ></DownhillSkiingIcon>
             </span>
             <p>Activities</p>
-          </div>
+          </div> */}
         </div>
         <div className="login">
-        <Login handleClick={handlePopup}/>
+          <Login handleClick={handlePopup} />
         </div>
       </div>
     </Icondivcss>

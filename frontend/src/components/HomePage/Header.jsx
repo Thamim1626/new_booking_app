@@ -59,11 +59,11 @@ const Icondivcss = styled.div`
       width: 50%;
     }
   }
-.login{
-  position: relative;
-  top: 10px;
-  left: 150px;
-}
+  .login {
+    position: relative;
+    top: 10px;
+    left: 150px;
+  }
 `;
 
 export const Header = () => {
@@ -85,7 +85,12 @@ export const Header = () => {
       <div className={nav ? "icondiv" : "disnone"}>
         <div className="imgdiv">
           <Link to="/">
-            <img src={"https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/logo@2x.png"} alt="Logo" />
+            <img
+              src={
+                "https://ik.imagekit.io/9pisu4akvm/Untitled%20design%20(12).png?updatedAt=1708880359571"
+              }
+              alt="Logo"
+            />
           </Link>
         </div>
         <div className="icons">
@@ -163,7 +168,7 @@ export const Header = () => {
           </div>
         </div>
         <div className="login">
-        <Login handleClick={handlePopup}/>
+          <Login handleClick={handlePopup} />
         </div>
       </div>
     </Icondivcss>

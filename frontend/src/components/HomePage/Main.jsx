@@ -34,22 +34,22 @@ export const Main = () => {
       <Header></Header>
       <Navbar>
         <div className="topdiv">
-          <img
+          {/* <img
             className="laltain"
-            src="https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assets/desktop/DiwaliLantern.webp"
+            src="https://imgak.mmtcdn.com/pwa_v3/pwa_commons_assts/desktop/DiwaliLantern.webp"
             alt=""
-          />
+          /> */}
           <Link to="/">
             <img
               className="mmtlogo"
               src={
-                "https://imgak.mmtcdn.com/pwa_v3/pwa_hotel_assets/header/mmtLogoWhite.png"
+                "https://ik.imagekit.io/9pisu4akvm/Untitled%20design%20(12).png?updatedAt=1708880359571"
               }
               alt="Logo"
             />
           </Link>
           <div className="login">
-          <Login handleClick={handlePopup}/>
+            <Login handleClick={handlePopup} />
           </div>
           <Smallbutton>
             <div className="smallbuttonpic">
